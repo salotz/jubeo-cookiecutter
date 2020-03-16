@@ -1,0 +1,15 @@
+{
+    "project_name" : "jubeo-project-cookiecutter",
+    "project_slug" : "jubeo_project_cookiecutter",
+    "project_description" : "Jubeo Project",
+    "initial_version" : "0.0.0a0.dev0",
+    "copyright" : "BY-NC",
+    "license" : "MIT",
+    "owner_name" : "Samuel D. Lotz",
+    "owner_email" : "samuel.lotz@salotz.info",
+    "owner_nickname" : "salotz",
+    "url" : "https://github.com/salotz/jubeo_project_cookiecutter",
+    "dev_url" : "https://github.com/salotz/jubeo_project_cookiecutter",
+    "doc_url" : "https://salotz.github.io/jubeo_project_cookiecutter",
+    "dist_url" : "https://github.com/salotz/jubeo_project_cookiecutter/releases/download/"
+}
